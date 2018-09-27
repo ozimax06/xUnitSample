@@ -1,0 +1,138 @@
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_InstallXUnit\Install\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_InstallXUnit\Install\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_InstallXUnit\Install\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_InstallXUnit\Install\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_InstallXUnit\Install\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\bin\Debug\xunit.abstractions.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\bin\Debug\xunit.assert.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\bin\Debug\xunit.core.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\bin\Debug\xunit.assert.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\bin\Debug\xunit.assert.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\bin\Debug\xunit.core.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\bin\Debug\xunit.core.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\02_Create\Create\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Create - Done\BrokerageLib.xUnit\bin\Debug\xunit.abstractions.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Create - Done\BrokerageLib.xUnit\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Create - Done\BrokerageLib.xUnit\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Create - Done\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Create - Done\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Create - Done\BrokerageLib.xUnit\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Create - Done\BrokerageLib.xUnit\bin\Debug\xunit.assert.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Create - Done\BrokerageLib.xUnit\bin\Debug\xunit.core.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Create - Done\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Create - Done\BrokerageLib.xUnit\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Create - Done\BrokerageLib.xUnit\bin\Debug\xunit.assert.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Create - Done\BrokerageLib.xUnit\bin\Debug\xunit.assert.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Create - Done\BrokerageLib.xUnit\bin\Debug\xunit.core.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Create - Done\BrokerageLib.xUnit\bin\Debug\xunit.core.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Create - Done\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Create - Done\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Create - Done\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Create - Done\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\bin\Debug\xunit.abstractions.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\bin\Debug\xunit.assert.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\bin\Debug\xunit.core.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\bin\Debug\xunit.assert.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\bin\Debug\xunit.assert.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\bin\Debug\xunit.core.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\bin\Debug\xunit.core.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\03_Exceptions\Exceptions\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\bin\Debug\xunit.abstractions.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\bin\Debug\xunit.assert.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\bin\Debug\xunit.core.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\bin\Debug\xunit.assert.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\bin\Debug\xunit.assert.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\bin\Debug\xunit.core.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\bin\Debug\xunit.core.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\04_Parameters\Parameters\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.abstractions.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.assert.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.core.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.assert.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.assert.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.core.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.core.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.csprojResolveAssemblyReference.cache
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\06_MemberParameters\MemberParams\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.abstractions.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.dll.config
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\BrokerageLib.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.assert.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.core.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\BrokerageLib.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.assert.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.assert.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.core.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.core.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.pdb
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.xml
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.dll
+C:\Courseware\VS2015-UnitTest\Exercise Files\04_XUnit\07_MemberParameters\MemberParams\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.pdb
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\bin\Debug\xunit.abstractions.dll
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.dll.config
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.dll
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\bin\Debug\BrokerageLib.xUnit.pdb
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\bin\Debug\BrokerageLib.dll
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\bin\Debug\xunit.assert.dll
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\bin\Debug\xunit.core.dll
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.dll
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\bin\Debug\BrokerageLib.pdb
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\bin\Debug\xunit.assert.pdb
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\bin\Debug\xunit.assert.xml
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\bin\Debug\xunit.core.pdb
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\bin\Debug\xunit.core.xml
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\bin\Debug\xunit.execution.desktop.xml
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.csprojResolveAssemblyReference.cache
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.dll
+C:\Users\ondero\Desktop\Projects\Unit Test\playground\xUNit\MemberParams - Done\BrokerageLib.xUnit\obj\Debug\BrokerageLib.xUnit.pdb
